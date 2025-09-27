@@ -67,7 +67,7 @@ const Index = () => {
             <div className="w-8 h-8 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center">
               <span className="text-xl">🍋</span>
             </div>
-            <h1 className="text-2xl font-bold text-primary">Лимон</h1>
+            <h1 className="text-2xl font-bold text-primary brand-font">Лимон</h1>
           </div>
           
           <nav className="hidden md:flex items-center space-x-6">
@@ -103,7 +103,7 @@ const Index = () => {
         <div className="container mx-auto text-center relative z-10">
           <h2 className="text-4xl md:text-6xl font-bold text-primary mb-6 animate-fade-in">
             Цветочный магазин
-            <span className="block text-secondary">Лимон</span>
+            <span className="block text-secondary brand-font text-7xl md:text-8xl">Лимон</span>
           </h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             Свежие цветы каждый день. Создаем букеты, которые дарят радость и вдохновение.
@@ -260,7 +260,7 @@ const Index = () => {
             <div className="w-8 h-8 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center">
               <span className="text-xl">🍋</span>
             </div>
-            <h1 className="text-2xl font-bold text-primary">Лимон</h1>
+            <h1 className="text-2xl font-bold text-primary brand-font">Лимон</h1>
           </div>
           <p className="text-muted-foreground mb-6">
             Цветочный магазин с любовью к деталям
