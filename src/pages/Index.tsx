@@ -99,7 +99,7 @@ const Index = () => {
 
       {/* Hero Section */}
       <section id="home" className="relative py-20 px-4 bg-cover bg-center bg-no-repeat" style={{backgroundImage: 'url(https://cdn.poehali.dev/files/b66d0e7c-5fe4-4801-be8f-e8e727ea3252.jpg)'}}>
-        <div className="absolute inset-0 bg-white/80 backdrop-blur-sm"></div>
+        <div className="absolute inset-0 bg-white/50"></div>
         <div className="container mx-auto text-center relative z-10">
           <h2 className="text-4xl md:text-6xl font-bold text-primary mb-6 animate-fade-in">
             Цветочный магазин
